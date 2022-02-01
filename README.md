@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 [![MasterHead](https://raw.githubusercontent.com/timothyrusso/timothyrusso/main/images/banner.png)](https://github.com/timothyrusso)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=timothyrusso&show_icons=true&theme=radical&hide=stars,prs,issues,contribs)
+<div align="right">![GitHub stats](https://github-readme-stats.vercel.app/api?username=timothyrusso&show_icons=true&theme=radical&hide=stars,prs,issues,contribs)</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timothyrusso)
