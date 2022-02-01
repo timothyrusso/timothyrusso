@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 
 [![MasterHead](https://raw.githubusercontent.com/timothyrusso/timothyrusso/main/images/banner.png)](https://github.com/timothyrusso)
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/russotimothywebdeveloper/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=timothyrusso)](https://github.com/timothyrusso/github-readme-stats)
 
