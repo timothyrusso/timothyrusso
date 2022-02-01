@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](your image link)](https://github.com/timothyrusso)
+[![MasterHead](https://raw.githubusercontent.com/timothyrusso/timothyrusso/main/images/banner.png)](https://github.com/timothyrusso)
