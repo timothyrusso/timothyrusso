@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=timothyrusso&show_icons=true&theme=radical)](https://github.com/timothyrusso/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timothyrusso)](https://github.com/timothyrusso/github-readme-stats)
