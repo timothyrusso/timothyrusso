@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](https://raw.githubusercontent.com/timothyrusso/timothyrusso/main/images/banner.png)](https://github.com/timothyrusso)
+[![MasterHead](https://raw.githubusercontent.com/timothyrusso/timothyrusso/main/images/header_banner.jpg)](https://github.com/timothyrusso)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=timothyrusso&show_icons=true&theme=radical&hide=stars,prs,issues,contribs)
 
