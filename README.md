@@ -27,9 +27,11 @@ A simple React application where users could customise their profiles, share the
 💻 Tech Stack:
 HTML, CSS, Javascript, React, Node, MongoDB, Express (constantly subject to change 🤓)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=timothyrusso&show_icons=true&theme=radical&hide=stars,prs,issues,contribs)
+## 📊 Here you can find my stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timothyrusso)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=timothyrusso&show_icons=true&theme=radical&hide=stars,prs,issues,contribs)](https://github.com/timothyrusso)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timothyrusso)](https://github.com/timothyrusso)
 
 ## 📫 You can reach me here:
 
