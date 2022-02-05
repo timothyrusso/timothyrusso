@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 📚 Focusing on expanding my knowledge of React ❤️
 
 💼 Currently working on:
-A simple React application where users could customise their profiles, share their photos, and like others.
+A simple React application where users could customise their profiles, share their photos, and like others. ➡️ (https://github.com/timothyrusso/around-react)
 
 👋 Feel free to reach out or check out my latest projects on my GitHub profile page.
 
