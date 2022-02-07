@@ -36,3 +36,4 @@ HTML, CSS, Javascript, React, Node, MongoDB, Express (constantly subject to chan
 ## 📫 You can reach me here:
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow timothyrusso on LinkedIn" title="Follow timothyrusso on LinkedIn"/>](https://www.linkedin.com/in/russotimothywebdeveloper/)
+[<img src="https://raw.githubusercontent.com/timothyrusso/timothyrusso/fba8fba2367b24577fbeee9720f74c964e9dbf85/images/mail-line.svg" height="40em" align="center" alt="Timothy Russo email" title="Follow timothyrusso on LinkedIn"/>](mailto:russotimothy@live.it)
