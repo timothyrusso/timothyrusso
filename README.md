@@ -32,13 +32,13 @@ HTML, CSS, Javascript, React, Node, MongoDB, Express (constantly subject to chan
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=timothyrusso&theme=black-ice&hide_border=true&stroke=0000&background=0D1417&ring=00bfbf&fire=00bfbf&currStreakLabel=00ffbf" alt="Timothy Russo" />
 </div>
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=timothyrusso&show_icons=true&theme=radical&hide=stars,prs,issues,contribs" alt="Timothy Russo contribs" />
 </div>
-<div align="center">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothyrusso" alt="Top Langs" />
 </div>
-<div style="margin:20;align=center;">
+<div align="center">
   <img src="https://visitor-badge.deta.dev/badge?page_id=timothyrusso&left_color=red&right_color=green" alt="Visitors" />
 </div>
 
