@@ -30,10 +30,10 @@ HTML, CSS, Javascript, React, Node, MongoDB, Express (constantly subject to chan
 ## 📊 Here you can find my stats:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=timothyrusso&theme=black-ice&hide_border=true&stroke=0000&background=0D1417&ring=00bfbf&fire=00bfbf&currStreakLabel=00ffbf" alt="Timothy Russo" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=timothyrusso&theme=black-ice&hide_border=true&stroke=0000&background=0D1417&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Timothy Russo" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=timothyrusso&show_icons=true&theme=radical&hide=stars,prs,issues,contribs" alt="Timothy Russo contribs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=timothyrusso&show_icons=true&theme=radical&hide=" alt="Timothy Russo contribs" />
 </div>
 <div><p></p></div>
 <div align="center">
