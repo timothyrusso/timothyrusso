@@ -35,8 +35,6 @@ HTML, CSS, Javascript, React, Node, MongoDB, Express (constantly subject to chan
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothyrusso" alt="Top Langs" /></div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timothyrusso)](https://github.com/timothyrusso)
-
 ![visitors](https://visitor-badge.deta.dev/badge?page_id=timothyrusso&left_color=red&right_color=green)
 
 ## 📫 You can reach me here:
