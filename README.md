@@ -33,6 +33,8 @@ HTML, CSS, Javascript, React, Node, MongoDB, Express (constantly subject to chan
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timothyrusso)](https://github.com/timothyrusso)
 
+![visitors](https://visitor-badge.deta.dev/badge?page_id=timothyrusso&left_color=red&right_color=green)
+
 ## 📫 You can reach me here:
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow timothyrusso on LinkedIn" title="Follow timothyrusso on LinkedIn"/>](https://www.linkedin.com/in/russotimothywebdeveloper/)
