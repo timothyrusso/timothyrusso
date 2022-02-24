@@ -34,7 +34,7 @@ HTML, CSS, Javascript, React, Node, MongoDB, Express (constantly subject to chan
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=timothyrusso&show_icons=true&theme=radical&hide=stars,prs,issues,contribs" alt="Timothy Russo contribs" align="left" />
-  <img src="https://github-visitors-badge.glitch.me/badge?page_id=timothyrusso&left_color=red&right_color=green&left_text=Visitors" alt="Top Langs" align="left" />
+  <img src="https://github-visitors-badge.glitch.me/badge?page_id=timothyrusso&left_color=red&right_color=green&left_text=Visitors" alt="Top Langs" align="center" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothyrusso" alt="Top Langs" align="right" />
 </div>
 
