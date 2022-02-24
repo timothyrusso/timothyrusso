@@ -34,8 +34,6 @@ HTML, CSS, Javascript, React, Node, MongoDB, Express (constantly subject to chan
 </div>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=timothyrusso&show_icons=true&theme=radical&hide=stars,prs,issues,contribs" alt="Timothy Russo contribs" />
-</div>
-<div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothyrusso" alt="Top Langs" />
 </div>
 <div align="center">
