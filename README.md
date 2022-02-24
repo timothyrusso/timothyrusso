@@ -37,6 +37,8 @@ HTML, CSS, Javascript, React, Node, MongoDB, Express (constantly subject to chan
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothyrusso" alt="Top Langs" align="right" />
 </div>
 
+![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=KisaraPesanjithPerera.GithubVisitorsBadge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=timothyrusso&theme=react-dark&hide_border=true&area=true)
 
 ## 📫 You can reach me here:
