@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 [![MasterHead](https://raw.githubusercontent.com/timothyrusso/timothyrusso/main/images/banner.png)](https://github.com/timothyrusso)
 
-👋 I’m an aspiring software engineer with a background in eCommerce, QA, Application Delivery Management, Project Management and Trade Marketing. I have a bachelor’s degree in Economics and Business Management and now I’m studing to become a software developer through an online coding bootcamp called Practicum by Yandex. I’m a curious person, I love to code and I like to experiment with new technologies. Now coding is my passion and my new professional career focus. My experience gives me a solid foundation of problem solving and agile skills. My objective is to become a professional developer in the next 3 years.
+👋 
+I’m an aspiring software engineer with a background in eCommerce, QA, Application Delivery Management, Project Management and Trade Marketing. I have a bachelor’s degree in Economics and Business Management and now I’m studing to become a software developer through an online coding bootcamp called Practicum by Yandex. I’m a curious person, I love to code and I like to experiment with new technologies. Now coding is my passion and my new professional career focus. My experience gives me a solid foundation of problem solving and agile skills. My objective is to become a professional developer in the next 3 years.
 
 📚 Focusing on expanding my knowledge of React ❤️
 
