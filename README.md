@@ -54,5 +54,4 @@ HTML, CSS, Javascript, React, Node, MongoDB, Express (constantly subject to chan
 
 [<img src="https://raw.githubusercontent.com/timothyrusso/timothyrusso/main/images/email.png" height="40em" align="center" alt="Timothy Russo email" title="mail to timothyrusso"/>](mailto:russotimothy@live.it) Email me 📭
 
-<p>Take a look at my Portfolio website 🎨</p>
-[<img src="https://raw.githubusercontent.com/timothyrusso/timothyrusso/main/images/TR_logo.png" height="40em" align="center" alt="Timothy Russo Portfolio" title="Timothy Russo Portfolio"/>](https://timothyrusso.tech/)
+[<img src="https://raw.githubusercontent.com/timothyrusso/timothyrusso/main/images/TR_logo.png" height="40em" align="center" alt="Timothy Russo Portfolio" title="Timothy Russo Portfolio"/>](https://timothyrusso.tech/) __Take a look at my Portfolio website 🎨
