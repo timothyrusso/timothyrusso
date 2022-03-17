@@ -21,7 +21,7 @@ I’m a motivated and passionate aspiring software engineer with a background in
 📚 Focusing on expanding my knowledge of React ❤️
 
 💼 Currently working on:
-A simple React application where users could customise their profiles, share their photos, and like others. ➡️ (https://github.com/timothyrusso/around-react)
+A simple React application where users could customise their profiles, share their photos, and like others.
 
 👋 Feel free to reach out or check out my latest projects on my GitHub profile page.
 
