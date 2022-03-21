@@ -26,7 +26,7 @@ A simple React application where users could customise their profiles, share the
 👋 Feel free to reach out or check out my latest projects on my GitHub profile page.
 
 💻 Tech Stack:
-HTML, CSS, Javascript, React, Node, MongoDB, Express (constantly subject to change 🤓)
+HTML, CSS, Javascript, React, Node, MongoDB, Express (constantly subject to grow 🤓)
 
 ## 📊 Here you can find my stats:
 
