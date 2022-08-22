@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 [![MasterHead](https://raw.githubusercontent.com/timothyrusso/timothyrusso/main/images/banner.png)](https://github.com/timothyrusso)
 
 
-I’m a motivated and passionate aspiring software engineer with a background in eCommerce, QA, Application Delivery Management, Project Management and Trade Marketing. I have a bachelor’s degree in Economics and Business Management and now I’m studing to become a software developer through an online coding bootcamp called Practicum by Yandex. I’m a curious person, I love to code and I like to experiment with new technologies. Now coding is my passion and my new professional career focus. My experience gives me a solid foundation of problem solving and agile skills. My objective is to become a professional developer in the next 3 years.
+I’m a motivated and passionate software engineer with a background in eCommerce, QA, Application Delivery Management, Project Management and Trade Marketing. I have a bachelor’s degree in Economics and Business Management and this year I have done a software developer online coding bootcamp called Practicum. I’m a curious person, I love to code and I like to experiment with new technologies. Coding is my passion and my professional career focus. My experience gives me a solid foundation of problem solving and agile skills.
 
 📚 Focusing on expanding my knowledge of React ❤️
 
 💼 Currently working on:
-A news explorer application where users can search news and save them on their personal profile.
+A simple React/Next application that replicate the Spotify home page
 
 👋 Feel free to reach out or check out my latest projects on my GitHub profile page.
 
 💻 Tech Stack:
-HTML, CSS, Javascript, React, Node, MongoDB, Express (constantly subject to grow 🤓)
+HTML, CSS, Javascript, React (constantly subject to grow 🤓)
 
 ## 📊 Here you can find my stats:
 
