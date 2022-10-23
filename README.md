@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 
 I’m a motivated and passionate software engineer with a background in eCommerce, QA, Application Delivery Management, Project Management and Trade Marketing. I have a bachelor’s degree in Economics and Business Management and this year I have done a software developer online coding bootcamp called Practicum. I’m a curious person, I love to code and I like to experiment with new technologies. Coding is my passion and my professional career focus. My experience gives me a solid foundation of problem solving and agile skills.
 
-📚 Focusing on expanding my knowledge of React ❤️
+📚 Focusing on expanding my knowledge of React and TypeScript ❤️
 
 💼 Currently working on:
-A simple React/Next application that replicate the Spotify home page
+A simple React application that replicate an ecommerce
 
 👋 Feel free to reach out or check out my latest projects on my GitHub profile page.
 
 💻 Tech Stack:
-HTML, CSS, Javascript, React (constantly subject to grow 🤓)
+HTML, CSS, Javascript, React and TypeScript (constantly subject to grow 🤓)
 
 ## 📊 Here you can find my stats:
 
