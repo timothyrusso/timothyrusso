@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![MasterHead](https://raw.githubusercontent.com/timothyrusso/timothyrusso/main/images/banner.png)](https://github.com/timothyrusso)
 
 
-I’m a motivated and passionate software engineer with a background in eCommerce, QA, Application Delivery Management, Project Management and Trade Marketing. I have a bachelor’s degree in Economics and Business Management and this year I have done a software developer online coding bootcamp called Practicum. I’m a curious person, I love to code and I like to experiment with new technologies. Coding is my passion and my professional career focus. My experience gives me a solid foundation of problem solving and agile skills.
+I’m a motivated and passionate software engineer with a background in eCommerce, QA, Application Delivery Management, Project Management and Trade Marketing. I have a bachelor’s degree in Economics and Business Management and I have done a software developer online coding bootcamp called Practicum. I’m a curious person, I love to code and I like to experiment with new technologies. Coding is my passion and my professional career focus. My experience gives me a solid foundation of problem solving and agile skills.
 
 📚 Focusing on expanding my knowledge of React and TypeScript ❤️
 
