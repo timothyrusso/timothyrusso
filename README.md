@@ -41,12 +41,6 @@ HTML, CSS, Javascript, React and TypeScript (constantly subject to grow 🤓)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothyrusso" alt="Top Langs" />
 </div>
 <div><p></p></div>
-<div align="center">
-  <img src="https://github-visitors-badge.glitch.me/badge?page_id=timothyrusso&left_color=red&right_color=green&left_text=Visitors" alt="Visitors" />
-</div>
-<div><p></p></div>
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=timothyrusso&theme=react-dark&hide_border=true&area=true)
 
 ## 📫 You can reach me here:
 
