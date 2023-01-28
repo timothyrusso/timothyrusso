@@ -26,7 +26,7 @@ A simple React application that replicate an ecommerce
 👋 Feel free to reach out or check out my latest projects on my GitHub profile page.
 
 💻 Tech Stack:
-HTML, CSS, Javascript, React and TypeScript (constantly subject to grow 🤓)
+HTML, CSS, Javascript, React, Redux and TypeScript (constantly subject to grow 🤓)
 
 ## 📊 Here you can find my stats:
 
