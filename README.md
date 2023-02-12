@@ -50,4 +50,4 @@ HTML, CSS, Javascript, React, Redux and TypeScript (constantly subject to grow ð
 
 [<img src="https://raw.githubusercontent.com/timothyrusso/timothyrusso/main/images/email.png" height="40em" align="center" alt="Timothy Russo email" title="mail to timothyrusso"/>](mailto:russotimothy@live.it) __Email me
 
-[<img src="https://raw.githubusercontent.com/timothyrusso/timothyrusso/main/images/TR_logo.png" height="40em" align="center" alt="Timothy Russo Portfolio" title="Timothy Russo Portfolio"/>](https://timothyrusso.tech/) __Take a look at my Portfolio website
+[<img src="https://raw.githubusercontent.com/timothyrusso/timothyrusso/main/images/TR_logo.png" height="40em" align="center" alt="Timothy Russo Portfolio" title="Timothy Russo Portfolio"/>](https://timothyrusso.dev/) __Take a look at my Portfolio website
