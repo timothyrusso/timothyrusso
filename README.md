@@ -44,6 +44,11 @@ HTML, CSS, Javascript, React, Redux and TypeScript (constantly subject to grow �
 
 ![Snake animation](https://github.com/timothyrusso/timothyrusso/blob/output/github-contribution-grid-snake.svg)
 
+## 🧑🏻‍💻 Main open source contributions
+
+[Italia Awesome Remote](https://github.com/italiaremote/awesome-italia-remote)
+[The Modern JavaScript Tutorial](https://github.com/javascript-tutorial)
+
 ## 📫 You can reach me here:
 
 [<img src="https://raw.githubusercontent.com/timothyrusso/timothyrusso/main/images/linkedin_icon.png" height="40em" align="center" alt="Follow timothyrusso on LinkedIn" title="Follow timothyrusso on LinkedIn"/>](https://www.linkedin.com/in/russotimothywebdeveloper/) __Follow me on Linkedin
