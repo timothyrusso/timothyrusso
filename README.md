@@ -46,7 +46,9 @@ HTML, CSS, Javascript, React, Redux and TypeScript (constantly subject to grow �
 
 ## 🧑🏻‍💻 Main open source contributions
 
-[Italia Awesome Remote](https://github.com/italiaremote/awesome-italia-remote)
+- [Italia Awesome Remote](https://github.com/italiaremote/awesome-italia-remote)
+- [SuperImage](https://github.com/Lucchetto/SuperImage)
+- [Build your own X in JavaScript](https://github.com/andrew-hu368/build-your-own-x-in-js)
 
 ## 📫 You can reach me here:
 
