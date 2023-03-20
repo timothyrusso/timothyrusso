@@ -21,7 +21,7 @@ I’m a motivated and passionate Frontend Engineer with a background in eCommerc
 📚 Focusing on expanding my knowledge of React, Redux and TypeScript ❤️
 
 💼 Currently working on:
-A simple React application that replicate an ecommerce
+[CryptoWorld Project](https://github.com/chingu-voyages/v43-tier2-team-13)
 
 👋 Feel free to reach out or check out my latest projects on my GitHub profile page.
 
