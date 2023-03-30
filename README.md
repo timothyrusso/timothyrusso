@@ -15,18 +15,16 @@ Here are some ideas to get you started:
 
 [![MasterHead](https://raw.githubusercontent.com/timothyrusso/timothyrusso/main/images/github_image.jpeg)](https://github.com/timothyrusso)
 
+🖐️ I'm a Frontend Engineer with a background in eCommerce, Quality Assurance, Application Delivery, Project Management, and Trade Marketing. Holding a bachelor's degree in Economics and Business Management, I have also completed the Practicum online coding bootcamp for software development. As a curious individual, I'm passionate about coding and enjoy experimenting with new technologies, which has helped me build a strong foundation in problem-solving and Agile methodologies.
 
-I’m a motivated and passionate Frontend Engineer with a background in eCommerce, QA, Application Delivery Management, Project Management and Trade Marketing. I have a bachelor’s degree in Economics and Business Management and I have done a software developer online coding bootcamp called Practicum. I’m a curious person, I love to code and I like to experiment with new technologies. Coding is my passion and my professional career focus. My experience gives me a solid foundation of problem solving and agile skills.
+✈️ I love traveling and collaborating with people from around the world.
 
-📚 Focusing on expanding my knowledge of React, Redux and TypeScript ❤️
+📚 Currently focusing on expanding my expertise in React, Redux, and TypeScript.
 
-💼 Currently working on:
-[CryptoWorld Project](https://github.com/chingu-voyages/v43-tier2-team-13)
-
-👋 Feel free to reach out or check out my latest projects on my GitHub profile page.
+👋 Don't hesitate to reach out or explore my latest projects on my GitHub profile page.
 
 💻 Tech Stack:
-HTML, CSS, Javascript, React, Redux and TypeScript (constantly subject to grow 🤓)
+HTML, CSS, JavaScript, React, Redux, and TypeScript (with a commitment to continuous growth and learning 🤓).
 
 ## 📊 Here you can find my stats:
 
