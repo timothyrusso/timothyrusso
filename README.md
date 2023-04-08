@@ -32,7 +32,7 @@ HTML, CSS, JavaScript, React, Redux, and TypeScript (with a commitment to contin
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=timothyrusso&theme=black-ice&hide_border=true&stroke=0000&background=0D1417&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Timothy Russo" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=timothyrusso&show_icons=true&theme=radical&hide=commits" alt="Timothy Russo contribs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=timothyrusso&show_icons=true&theme=radical" alt="Timothy Russo contribs" />
 </div>
 <div><p></p></div>
 <div align="center">
