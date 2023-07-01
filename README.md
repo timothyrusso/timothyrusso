@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 👋 Don't hesitate to reach out or explore my latest projects on my GitHub profile page.
 
 💻 Tech Stack:
-HTML, CSS, JavaScript, React, NextJs, Redux, and TypeScript (with a commitment to continuous growth and learning 🤓).
+HTML, CSS, JavaScript, React, Next, Redux, and TypeScript (with a commitment to continuous growth and learning 🤓).
 
 ## 📊 Here you can find my stats:
 
