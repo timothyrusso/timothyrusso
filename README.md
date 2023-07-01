@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ✈️ I love traveling and collaborating with people from around the world.
 
-📚 Currently focusing on expanding my expertise in React, NextJs, Redux, and TypeScript.
+📚 Currently focusing on expanding my expertise in React, Next, Redux, and TypeScript.
 
 👋 Don't hesitate to reach out or explore my latest projects on my GitHub profile page.
 
