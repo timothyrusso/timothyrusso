@@ -37,8 +37,6 @@ HTML, CSS, JavaScript, React, Next, Redux, and TypeScript (with a commitment to 
 </div>
 <div><p></p></div>
 
-![Snake animation](https://github.com/timothyrusso/timothyrusso/blob/output/github-contribution-grid-snake.svg)
-
 ## 🧑🏻‍💻 Main open source contributions
 
 - [Italia Awesome Remote](https://github.com/italiaremote/awesome-italia-remote)
