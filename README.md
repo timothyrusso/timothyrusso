@@ -39,6 +39,7 @@ HTML, CSS, JavaScript, React, Next, Redux, and TypeScript (with a commitment to 
 
 ## 🧑🏻‍💻 Main open source contributions
 
+- [chingu.io Dashboard](https://github.com/chingu-x/chingu-dashboard)
 - [Italia Awesome Remote](https://github.com/italiaremote/awesome-italia-remote)
 - [SuperImage](https://github.com/Lucchetto/SuperImage)
 - [Build your own X in JavaScript](https://github.com/andrew-hu368/build-your-own-x-in-js)
