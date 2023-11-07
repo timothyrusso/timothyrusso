@@ -43,6 +43,7 @@ HTML, CSS, JavaScript, React, Next, Redux, and TypeScript (with a commitment to 
 - [Italia Awesome Remote](https://github.com/italiaremote/awesome-italia-remote)
 - [SuperImage](https://github.com/Lucchetto/SuperImage)
 - [Build your own X in JavaScript](https://github.com/andrew-hu368/build-your-own-x-in-js)
+- [it.javascript.info](https://github.com/javascript-tutorial/it.javascript.info)
 
 ## 📫 You can reach me here:
 
