@@ -47,8 +47,8 @@ HTML, CSS, JavaScript, React, Next, Redux, and TypeScript (with a commitment to 
 
 ## 📫 You can reach me here:
 
-[<img src="https://raw.githubusercontent.com/timothyrusso/timothyrusso/main/images/linkedin_icon.png" height="40em" align="center" alt="Follow timothyrusso on LinkedIn" title="Follow timothyrusso on LinkedIn"/>](https://www.linkedin.com/in/russotimothysoftwareengineer/) __Follow me on Linkedin
+[<img src="https://raw.githubusercontent.com/timothyrusso/timothyrusso/main/images/linkedin_icon.png" height="40em" align="center" alt="Follow timothyrusso on LinkedIn" title="Follow timothyrusso on LinkedIn"/>](https://www.linkedin.com/in/russotimothysoftwareengineer/) -->Follow me on Linkedin
 
-[<img src="https://raw.githubusercontent.com/timothyrusso/timothyrusso/main/images/email.png" height="40em" align="center" alt="Timothy Russo email" title="mail to timothyrusso"/>](mailto:russotimothy@live.it) __Email me
+[<img src="https://raw.githubusercontent.com/timothyrusso/timothyrusso/main/images/email.png" height="40em" align="center" alt="Timothy Russo email" title="mail to timothyrusso"/>](mailto:russotimothy@live.it) -->Email me
 
-[<img src="https://raw.githubusercontent.com/timothyrusso/timothyrusso/main/images/TR_logo.png" height="40em" align="center" alt="Timothy Russo Portfolio" title="Timothy Russo Portfolio"/>](https://timothyrusso.dev/) __Take a look at my Portfolio website
+[<img src="https://raw.githubusercontent.com/timothyrusso/timothyrusso/main/images/TR_logo.png" height="40em" align="center" alt="Timothy Russo Portfolio" title="Timothy Russo Portfolio"/>](https://timothyrusso.dev/) -->Take a look at my Portfolio website
