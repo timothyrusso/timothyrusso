@@ -1,40 +1,23 @@
-<!--
-**timothyrusso/timothyrusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 [![MasterHead](https://raw.githubusercontent.com/timothyrusso/timothyrusso/main/images/github_image.jpeg)](https://github.com/timothyrusso)
 
+# 💫 About Me:
 Hi I’m Timothy Russo, a Frontend and Mobile Engineer with a strong foundation in React Native, React.js, and TypeScript. With experience spanning eCommerce, quality assurance, and project management, I bring a comprehensive perspective to mobile application development, focusing on creating scalable, user-centric solutions.
 
-## 📊 Here you can find my stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=timothyrusso&show_icons=true&theme=radical" alt="Timothy Russo contribs" />
-</div>
-<div><p></p></div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothyrusso" alt="Top Langs" />
-</div>
-<div><p></p></div>
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=timothyrusso&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=timothyrusso&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🧑🏻‍💻 Main open source contributions
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=timothyrusso&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- [chingu.io Dashboard](https://github.com/chingu-x/chingu-dashboard)
-- [Italia Awesome Remote](https://github.com/italiaremote/awesome-italia-remote)
-- [SuperImage](https://github.com/Lucchetto/SuperImage)
-- [Build your own X in JavaScript](https://github.com/andrew-hu368/build-your-own-x-in-js)
-- [it.javascript.info](https://github.com/javascript-tutorial/it.javascript.info)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=timothyrusso&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=timothyrusso&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 📫 You can reach me here:
 
