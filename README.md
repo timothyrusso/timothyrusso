@@ -12,6 +12,14 @@ Hi I’m Timothy Russo, a Frontend and Mobile Engineer with a strong foundation 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=timothyrusso&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### 🔝 Top open-source contributions
+
+- [chingu.io Dashboard](https://github.com/chingu-x/chingu-dashboard)
+- [Italia Awesome Remote](https://github.com/italiaremote/awesome-italia-remote)
+- [SuperImage](https://github.com/Lucchetto/SuperImage)
+- [Build your own X in JavaScript](https://github.com/andrew-hu368/build-your-own-x-in-js)
+- [it.javascript.info](https://github.com/javascript-tutorial/it.javascript.info)
+
 ## 📫 You can reach me here:
 
 [<img src="https://raw.githubusercontent.com/timothyrusso/timothyrusso/main/images/linkedin_icon.png" height="40em" align="center" alt="Follow timothyrusso on LinkedIn" title="Follow timothyrusso on LinkedIn"/>](https://www.linkedin.com/in/russotimothysoftwareengineer/) -->Follow me on Linkedin
