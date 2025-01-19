@@ -12,7 +12,7 @@ Hi I’m Timothy Russo, a Frontend and Mobile Engineer with a strong foundation 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=timothyrusso&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top open-source contributions
+## 🔝 Top open-source contributions
 
 - [chingu.io Dashboard](https://github.com/chingu-x/chingu-dashboard)
 - [Italia Awesome Remote](https://github.com/italiaremote/awesome-italia-remote)
