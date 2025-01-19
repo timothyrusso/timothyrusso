@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 
 [![MasterHead](https://raw.githubusercontent.com/timothyrusso/timothyrusso/main/images/github_image.jpeg)](https://github.com/timothyrusso)
 
-I'm a Frontend and Mobile Engineer with a strong foundation in React.js, React Native, Next.js, and TypeScript. My diverse background spans eCommerce, Quality Assurance, and Project Management, providing me with a unique perspective on creating user-centric mobile applications.
-Currently at Elmet Srl, I'm developing applications that enhance user experiences within a smart district environment, focusing on creating responsive and accessible interfaces. My experience includes working with modern development tools and practices, including Jest for testing, Zustand for state management, and implementing clean, maintainable code.
-What sets me apart is my passion for continuous learning and adaptability. I thrive in environments that challenge me to explore new technologies and methodologies. My experience working with international teams, both professionally and through open-source contributions at chingu.io, has honed my collaborative skills and cross-cultural communication.
-I'm actively seeking opportunities in mobile development, particularly in React Native, and I'm open to relocation worldwide. My love for travel, meeting new people, and embracing different cultures makes me adaptable and eager to contribute to diverse, innovative teams focused on creating impactful mobile solutions.
+Hi I’m Timothy Russo, a Frontend and Mobile Engineer with a strong foundation in React Native, React.js, and TypeScript. With experience spanning eCommerce, quality assurance, and project management, I bring a comprehensive perspective to mobile application development, focusing on creating scalable, user-centric solutions.
 
 ## 📊 Here you can find my stats:
 
