@@ -3,6 +3,8 @@
 # 💫 About Me:
 Hi I’m Timothy Russo, a Frontend and Mobile Engineer with a strong foundation in React Native, React.js, and TypeScript. With experience spanning eCommerce, quality assurance, and project management, I bring a comprehensive perspective to mobile application development, focusing on creating scalable, user-centric solutions.
 
+Here you'll find a variety of projects where I experiment and explore new technologies, driven by my curiosity and commitment to continuous learning.
+
 
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
